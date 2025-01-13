@@ -45,7 +45,7 @@ img {
 
 @media only screen and (max-width: 768px) {
   .items {
-    animation: carouselAnim 35s infinite alternate linear;
+    animation: carouselAnim 15s infinite alternate linear;
   }
   
   @keyframes carouselAnim {
